@@ -1,19 +1,20 @@
 # 👩🏻‍💻 Amanda Miranda
 
-**`Economista & Analista Junior de Dados`**
+**`Economist & Junior Data Analyst`**
 
-Me chamo Amanda, sou economista formada pela Universidade Federal da Bahia, com especialização em Investimentos, Finanças e Bancos pela PUCRS. Atualmente, estou aprofundando meus conhecimentos na área de Data Analysis, unindo minha base em economia à análise de dados para gerar soluções mais eficientes e estratégicas.
+My name is Amanda, and I hold a degree in Economics from the Federal University of Bahia, with a specialization in Investments, Finance, and Banking from PUCRS. I am currently deepening my knowledge in Data Analysis, combining my background in economics with data analytics to generate more efficient and strategic solutions.
 
-Tenho experiência em pesquisa econômica, coleta, tratamento e análise de dados. Sou apaixonada por transformar dados em insights e, por isso, dedico este perfil a compartilhar meus projetos, análises e portfólio, um espaço onde registro minha evolução e minha trajetória no mundo da tecnologia e dos dados.
+I have experience in economic research, data collection, cleaning, and analysis. I am passionate about transforming data into insights, and I use this profile to share my projects, analyses, and portfolio — *a space where I document my growth and journey in the world of technology and data.**
 
-#### Skills:
-**Programming & Analytics:**
+## 🛠️ Skills
+
+### **Programming & Analytics**
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn  
-- **SQL:** Consultas, Joins, Views e Transações  
+- **SQL:** Queries, Joins, Views, and Transactions  
 
-**Business Intelligence:**
-- **Power BI:** Dashboards interativos, DAX, Power Query  
-- **Excel:** Tabelas e gráficos dinâmicos, Power Pivot  
+### **Business Intelligence**
+- **Power BI:** Interactive dashboards, DAX, Power Query  
+- **Excel:** Pivot tables and charts, Power Pivot  
 
 <div> 
   <a href="mailto:amandaomsp@gmail.com">
