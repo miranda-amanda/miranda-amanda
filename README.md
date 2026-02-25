@@ -2,7 +2,7 @@
 
 **`Economist & Junior Data Analyst`**
 
-My name is Amanda, and I hold a degree in Economics from the Federal University of Bahia, with a specialization in Investments, Finance, and Banking from PUCRS. I am currently deepening my knowledge in Data Analysis, combining my background in economics with data analytics to generate more efficient and strategic solutions.
+My name is Amanda, and I hold a degree in Economics from the Federal University of Bahia (Salvador, Bahia - Brazil), with a specialization in Investments, Finance, and Banking from PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul - Brazil). I am currently deepening my knowledge in Data Analysis, combining my background in economics with data analytics to generate more efficient and strategic solutions.
 
 I have experience in economic research, data collection, cleaning, and analysis. I am passionate about transforming data into insights, and I use this profile to share my projects, analyses, and portfolio — *a space where I document my growth and journey in the world of technology and data.**
 
